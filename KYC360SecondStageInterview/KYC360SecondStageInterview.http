@@ -1,0 +1,6 @@
+@KYC360SecondStageInterview_HostAddress = http://localhost:5287
+
+GET {{KYC360SecondStageInterview_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
